@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Ebola';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/ebolakikwit/EbolaKikwit.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/ebolakikwit/EbolaKikwit.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/ebolakikwit/EbolaKikwit.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/ebolakikwit/EbolaKikwit.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/ebolakikwit/EbolaKikwit.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/ebolakikwit/EbolaKikwit.svg#EbolaKikwit') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GF Ordner full';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/gfordner_inverted/GFOrdnerInverted-Inverted.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/gfordner_inverted/GFOrdnerInverted-Inverted.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/gfordner_inverted/GFOrdnerInverted-Inverted.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/gfordner_inverted/GFOrdnerInverted-Inverted.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/gfordner_inverted/GFOrdnerInverted-Inverted.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/gfordner_inverted/GFOrdnerInverted-Inverted.svg#GFOrdnerInverted-Inverted') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Andrew Script';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/andrewscript/AndrewScript.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/andrewscript/AndrewScript.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/andrewscript/AndrewScript.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/andrewscript/AndrewScript.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/andrewscript/AndrewScript.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/andrewscript/AndrewScript.svg#AndrewScript') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GF Ordner full';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/gfordner_inverted/GFOrdnerInverted-Regular.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/gfordner_inverted/GFOrdnerInverted-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/gfordner_inverted/GFOrdnerInverted-Regular.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/gfordner_inverted/GFOrdnerInverted-Regular.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/gfordner_inverted/GFOrdnerInverted-Regular.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/gfordner_inverted/GFOrdnerInverted-Regular.svg#GFOrdnerInverted-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goudy';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy.svg#Goudy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goudy';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy-Bold.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy-Bold.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy-Bold.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy-Bold.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy-Bold.svg#Goudy-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FudgeW01-Reg';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/fudgew01-reg/FudgeW01-Reg.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/fudgew01-reg/FudgeW01-Reg.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/fudgew01-reg/FudgeW01-Reg.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/fudgew01-reg/FudgeW01-Reg.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/fudgew01-reg/FudgeW01-Reg.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/fudgew01-reg/FudgeW01-Reg.svg#FudgeW01-Reg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goudy';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy-Italic.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy-Italic.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy-Italic.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy-Italic.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy-Italic.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/goudy/Goudy-Italic.svg#Goudy-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Impact';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/Impact.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/Impact.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/Impact.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/Impact.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/Impact.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/Impact.svg#Impact') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '1979';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/a979/a979.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/a979/a979.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/a979/a979.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/a979/a979.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/a979/a979.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/a979/a979.svg#a979') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Verdana';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/verdana/Verdana.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/verdana/Verdana.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/verdana/Verdana.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/verdana/Verdana.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/verdana/Verdana.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/verdana/Verdana.svg#Verdana') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Minion Pro';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/minionpro/MinionPro-Regular.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/minionpro/MinionPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/minionpro/MinionPro-Regular.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/minionpro/MinionPro-Regular.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/minionpro/MinionPro-Regular.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/minionpro/MinionPro-Regular.svg#MinionPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neuropol_x_reg';
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/neuropol_x/NeuropolXRg-Regular.eot');
+    src: url('https://mrreasonable.github.io/roll20/assets/fonts/neuropol_x/NeuropolXRg-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/neuropol_x/NeuropolXRg-Regular.woff2') format('woff2'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/neuropol_x/NeuropolXRg-Regular.woff') format('woff'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/neuropol_x/NeuropolXRg-Regular.ttf') format('truetype'),
+        url('https://mrreasonable.github.io/roll20/assets/fonts/neuropol_x/NeuropolXRg-Regular.svg#NeuropolXRg-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
